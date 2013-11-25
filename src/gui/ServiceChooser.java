@@ -34,6 +34,5 @@ public class ServiceChooser {
 		}else{
 			return null;
 		}
-
 	}
 }
